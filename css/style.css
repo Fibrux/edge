@@ -1251,6 +1251,10 @@ label.error{
   background: url("../img/bg/about.png") 50% 0 no-repeat;
   background-size: cover;
 }
+.bg-career{
+  background: url("../img/bg/career.png") 50% 0 no-repeat;
+  background-size: cover;
+}
 
 .entry{
   margin:3.2em 0;
@@ -1970,7 +1974,7 @@ img.mfp-img{
 }
 
 .blog-title{
-  font-family: 'Oswald', sans-serif;
+  font-family: montserrat;
   font-weight: 400;
   font-size: 1.5em;
   line-height: 1.333;
