@@ -143,8 +143,8 @@ body{
 
 h1,
 .h1{ 
-  font-family: 'Oswald', sans-serif;
-  font-weight: 400;
+  font-family: montserrat;
+  font-weight: bold;
   font-size: 8vmin;
   line-height: 1.2;
   letter-spacing: 0.32em;
@@ -154,8 +154,8 @@ h1,
 
 h2,
 .h2{ 
-  font-family: 'Oswald', sans-serif;
-  font-weight: 400;
+  font-family: montserrat;
+  font-weight: bold;
   font-size: 2.1875em;
   letter-spacing: 0.32em;
   text-transform: uppercase;
@@ -650,7 +650,7 @@ label.error{
 }
 
 .slide-number{
-  font-family: 'Oswald', sans-serif;
+  font-family: montserrat;
   margin-top: 8vmin;
 }
 
@@ -677,7 +677,7 @@ label.error{
 }
 
 .header-phone{
-  font-family: 'Oswald', sans-serif;
+  font-family: montserrat;
   font-weight: 300;
   font-size: 0.81em;
   letter-spacing: 0.32em;
@@ -1227,7 +1227,8 @@ label.error{
 }
 
 .slide-title{
-  font-family: 'Oswald', sans-serif;
+  font-family: montserrat;
+  font-weight: bold;
   font-size: 50px;
   letter-spacing: 0.32em;
   text-transform: uppercase;
@@ -1247,7 +1248,7 @@ label.error{
 
 
 .bg-about{
-  background: url(../img/bg/about.jpg) 50% 0 no-repeat;
+  background: url("../img/bg/about.png") 50% 0 no-repeat;
   background-size: cover;
 }
 
@@ -1261,7 +1262,9 @@ label.error{
 }
 
 .entry-text{
-  font-size: 1.6em;
+  text-align: justify;
+  font-family: montserrat;
+  font-size: 1em;
   line-height: 1.6;
 }
 
@@ -1320,6 +1323,9 @@ label.error{
 }
 
 .service-item p:last-child{
+	text-align: justify;
+  font-family: montserrat;
+  font-size: 1em;
   margin-bottom: 0;
 }
 
@@ -1470,7 +1476,7 @@ label.error{
   top:0;
   left:0;
   margin:0;
-  font-family: 'Oswald', sans-serif;
+  font-family: montserrat;
   font-weight: normal;
   font-size: 1.56em;
   line-height: 1.45;
@@ -1487,7 +1493,7 @@ label.error{
   left: 0;
   bottom: 0;
   margin:0 0 -0.8em;
-  font-family: 'Oswald', sans-serif;
+  font-family: montserrat;
   font-weight: normal;
   font-size: 14px;
   color: #fff;
@@ -1776,7 +1782,7 @@ img.mfp-img{
 
 .project-details-title{
   position: relative;
-  font-family: 'Oswald', sans-serif;
+  font-family: montserrat;
   font-weight: 400;
   font-size: 1.9em;
   line-height: 1.5;
@@ -1829,7 +1835,7 @@ img.mfp-img{
 }
 
 .text-parallax-content{
-  font-family: 'Oswald', sans-serif;
+  font-family: montserrat;
   font-weight: 700;
   font-size: 21.8em;
   line-height: 1;
@@ -1843,7 +1849,7 @@ img.mfp-img{
 .experience-info{
   position: relative;
   top: -0.75em;
-  font-family: 'Oswald', sans-serif;
+  font-family: montserrat;
   font-size: 1.5625em;
   line-height: 1.45;
   letter-spacing: 0.06em;
@@ -2049,7 +2055,7 @@ img.mfp-img{
 }
 
 .post-header h3{
-  font-family: 'Oswald', sans-serif;
+  font-family: montserrat;
   font-weight: 400;
   font-size: 2.2em;
   line-height: 1.43;
@@ -2147,7 +2153,7 @@ img.mfp-img{
 
 
 .bg-contacts{
-  background: url(../img/bg/contacts.jpg) 50% 0 no-repeat;
+  background: url(../img/bg/contacts.png) 50% 0 no-repeat;
   background-size: cover;
 }
 
