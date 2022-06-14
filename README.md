@@ -1,5 +1,13 @@
 # edge
 edge architects
+::::::::::::::::::::::::::::::Assignments:::::::::::::::::::::::::::::::::::::::::::::
+Sagar: About Us ,   contacts, Projects 
+Isha : Home , workflow ,career
+ 
+
+
+
+
 
 :::::::::::::::::::::::::::DETAILS:::::::::::::::::::::::::::::::::::::::::::::::::::: 
 
