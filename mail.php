@@ -6,7 +6,7 @@ $company = $_POST["company"];
 $message = $_POST["message"];
 
 
-$EmailTo = "000.lunchbox@gmail.com";
+$EmailTo = "sagarsewak5@gmail.com";
 $Subject = "New Message Received";
 
 // prepare email body text
