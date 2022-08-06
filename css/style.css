@@ -373,7 +373,7 @@ label.error{
 /* 1.6 Loader */
 
 
-
+/* 
 .loader{
   position: fixed;
   overflow: hidden;
@@ -496,7 +496,7 @@ label.error{
             transform: perspective(140px) rotateY(180deg);
     opacity: 0; 
   }
-}
+} */
 
 
 
@@ -1252,9 +1252,11 @@ label.error{
   background-size: cover;
 }
 .bg-career{
-  background: url("../img/bg/career.png") 50% 0 no-repeat;
+  background: url("../img/bg/about.png") 50% 0 no-repeat;
   background-size: cover;
 }
+
+
 
 .entry{
   margin:3.2em 0;
@@ -1426,7 +1428,7 @@ label.error{
 
 .bg-projects{
   position: relative;
-  background:url(../img/bg/projects.jpg) 50% 0 no-repeat;
+  background:url("../img/bg/about.png") 50% 0 no-repeat;
   background-size: cover;
 }
 
@@ -2157,7 +2159,7 @@ img.mfp-img{
 
 
 .bg-contacts{
-  background: url(../img/bg/contacts.png) 50% 0 no-repeat;
+  background: url("../img/bg/about.png") 50% 0 no-repeat;
   background-size: cover;
 }
 
@@ -2617,5 +2619,4 @@ img.mfp-img{
     bottom: auto;
   }
 }
-
 
