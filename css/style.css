@@ -549,8 +549,6 @@ label.error{
 
 .section{
   position: relative;
-  margin-top: 7.1em;
-  margin-bottom: 7.1em;
 }
 
 .section-header{
@@ -585,7 +583,6 @@ label.error{
 }
 
 .section-content{
-  margin-top: 7.1em;
 }
 
 
