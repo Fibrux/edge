@@ -610,7 +610,7 @@ label.error{
 .brand-panel{
   position: absolute;
   z-index: 4;
-  left: 150px;
+  left: 50px;
   top:2px;
   /* width: 39.47vmin; */
   /* height: 40.7vmin; */
@@ -787,7 +787,8 @@ label.error{
 
 
 .navbar-desctop{
-   background-color:rgba(255,255,255,0.95);
+   background-color:black;
+  opacity: 0.5;
   padding:1.3em 0 0;
   box-shadow: 0 0 35px rgba(0,0,0,0.1);
   display: none;
