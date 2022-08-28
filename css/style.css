@@ -610,17 +610,10 @@ label.error{
 .brand-panel{
   position: absolute;
   z-index: 4;
-<<<<<<< HEAD
   left: 150px;
   top:2px;
   /* width: 39.47vmin; */
   /* height: 40.7vmin; */
-=======
-  left: 20px;
-  top:0;
-  width: 100px;
-  height: 50px;
->>>>>>> ebc7c06635346b9187c49a2c9952b106fb980d0d
   /* padding: 4.8vmin 2em 4.8vmin; */
   padding: 0px;
   text-align: center;
