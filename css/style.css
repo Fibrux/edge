@@ -549,6 +549,8 @@ label.error{
 
 .section{
   position: relative;
+  margin-top: 5px;
+  margin-bottom:5px ;
 }
 
 .section-header{
@@ -583,6 +585,7 @@ label.error{
 }
 
 .section-content{
+  margin-top: 0px;
 }
 
 
@@ -607,10 +610,17 @@ label.error{
 .brand-panel{
   position: absolute;
   z-index: 4;
+<<<<<<< HEAD
   left: 150px;
   top:2px;
   /* width: 39.47vmin; */
   /* height: 40.7vmin; */
+=======
+  left: 20px;
+  top:0;
+  width: 100px;
+  height: 50px;
+>>>>>>> ebc7c06635346b9187c49a2c9952b106fb980d0d
   /* padding: 4.8vmin 2em 4.8vmin; */
   padding: 0px;
   text-align: center;
@@ -1150,7 +1160,7 @@ label.error{
 }
 
 .tp-caption{
-  padding: 0 20px;
+  padding: 0 0px;
   text-align: right;
 }
 
