@@ -609,9 +609,10 @@ label.error{
   z-index: 4;
   left: 0;
   top:0;
-  width: 39.47vmin;
-  height: 40.7vmin;
-  padding: 4.8vmin 2em 4.8vmin;
+  /* width: 39.47vmin; */
+  /* height: 40.7vmin; */
+  /* padding: 4.8vmin 2em 4.8vmin; */
+  padding: 15px;
   background-color: #f6f5f3;
   text-align: center;
   -webkit-transition: all 0.3s;
@@ -637,8 +638,8 @@ label.error{
 .brand-name{
   position: absolute;
   z-index: -1;
-  bottom: -0.4em;
-  right:-0.37em;
+  /* bottom: -0.4em;
+  right:-0.37em; */
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   font-size: 8.75em;
