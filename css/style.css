@@ -1485,11 +1485,11 @@ label.error{
 .project figcaption{
   position: absolute;
   z-index: 1;
-  left: 0;
-  top:0;
-  right:0;
-  bottom:0;
-  /* margin: 3.2em 3.6em; */
+  left: 10px;
+  top:10px;
+  right:10px;
+  bottom:10px;
+  /* marg10in: 3.2em 3.6em; */
   /* height: 540px; */
   width: 100%;
   /* width:1080px; */
