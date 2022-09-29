@@ -1438,10 +1438,10 @@ label.error{
 }
 
 .project{
-  /*padding-left: 35px;
-  padding-right: 35px;
-  padding-top:  25px; ;
-  padding-bottom: 25px; */
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top:  0px; ;
+  padding-bottom: 0px;
   overflow: hidden;
 }
 
