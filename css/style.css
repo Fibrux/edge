@@ -930,11 +930,10 @@ label.error{
 
 .navbar-mobile{
   position: absolute;
-  z-index: 2;
+  z-index: 0;
   left: 0;
   top:0;
   width: 100%;
-  padding:6vmin 0;
 }
 
 .navbar-mobile .brand{
